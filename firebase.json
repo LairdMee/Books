@@ -12,8 +12,11 @@
         "destination": "/index.html"
       }
     ]
+<<<<<<< HEAD
   },
   "functions": {
     "source": "functions"
+=======
+>>>>>>> 2c7c66e54e7dea7fae1a1a48ce4ef6c4d1846e20
   }
 }
